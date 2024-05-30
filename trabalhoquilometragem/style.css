@@ -1,0 +1,28 @@
+form
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.inputs
+{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+h1{
+    color: red
+}
+body{
+    background-color: lightskyblue;
+}
+input{
+    font-size: 20px;
+    text-align: center;
+    width: 360px;
+    padding: 10px 40px;
+}
